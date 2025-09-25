@@ -4,7 +4,6 @@
 - Currently studying for the **CFA Level I** exam  
 - Actively seeking a **Financial Analyst internship**  
 - 🌐 Portfolio: [tonynguyen.info](https://tonynguyen.info/#work)  
-- 📄 Resume: [tonynguyen.info/Tony.pdf](https://tonynguyen.info/Tony.pdf)  
 - 📫 Reach me: **tonyng22@bu.edu**  
 
 ---

@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tony Nguyen</h1>
 <h3 align="center">Aspiring Financial Analyst | Data & Business Analytics Enthusiast</h3>
 
-- Currently studying for the **CFA Level I** exam  
-- Actively seeking a **Financial Analyst internship**  
+- Currently studying for the **CFA Level II** exam  
 - 🌐 Portfolio: [tonynguyen.info](https://tonynguyen.info/#work)  
 - 📫 Reach me: **tonyng22@bu.edu**  
 
